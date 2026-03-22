@@ -3,7 +3,7 @@ A Python-based algorithmic trading backtester using Pandas, Scikit-Learn, and Ma
 
 ## Features: 
 Dual Moving Average Crossover (5day vs 20day)
-Usses Matplotlib charts for performance and singlas
+Usses Matplotlib charts for performance and visualization 
 Calculates Maximum drawdowns and returns
 Uses Scikit-Learn for price trends
 
